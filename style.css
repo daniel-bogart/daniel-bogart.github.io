@@ -1284,10 +1284,10 @@ button:focus {
   }
 }
 
-.list-of-ts-sites {
+.list-of-ts-sites > li {
 	list-style: none;
 }
-.list-of-ts-sites > li {
+.list-of-ts-sites > li > a {
 	color: #5353ff;
 }
 
