@@ -1284,6 +1284,10 @@ button:focus {
   }
 }
 
+.list-of-ts-sites {
+	
+}
+
 @media (max-width: 360px) {
   .mu-featured-slider-content {
     top: 49%;
